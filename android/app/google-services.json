@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826233383575",
+    "project_id": "dear-chat-d17c8",
+    "storage_bucket": "dear-chat-d17c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826233383575:android:32f9cb4573d4ab5c5097d2",
+        "android_client_info": {
+          "package_name": "com.example.dear_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826233383575-c2u4cuvq2o8ktkfs4adv47h09n1kmhgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTott5kthERJmRTYTrlsbA0JAmlxMKe_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826233383575-c2u4cuvq2o8ktkfs4adv47h09n1kmhgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
